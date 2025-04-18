@@ -7,11 +7,11 @@ As I begin my journey in the tech industry, I am eager to gain hands-on experien
 I’m open to opportunities, mentorship, and networking with like-minded developers. Let’s connect and build something great together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-luis-gomes-torres-ba426a2aa/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devjoaol) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devjoaoluis) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomesjoaoluis99@gmail.com)
 
 
-![Joao Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=devjoaol&show_icons=true&theme=midnight-purple)
+![Joao Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=devjoaoluis&show_icons=true&theme=midnight-purple)
 
 
 ### Technologies Useds
